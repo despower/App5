@@ -1,6 +1,6 @@
 #We know the drill with the README!!!
 
-* point 1 *here*
-* point 2 *there*
-* point 3 *everywhere*
-* point 4 *so there*
+* point 1 *here* **1**
+* point 2 *there* **2**
+* point 3 *everywhere* _3_
+* point 4 *so there* **4**
